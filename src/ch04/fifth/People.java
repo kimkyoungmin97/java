@@ -13,7 +13,7 @@ public class People {
 		
 		System.out.println("------------");
 		
-//		Member member = new User();
+
 		Member member = new Admin();
 		member.showMyName();
 
