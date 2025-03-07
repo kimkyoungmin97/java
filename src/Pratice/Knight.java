@@ -19,7 +19,9 @@ public class Knight {
 			for(int j = 1; j <=i; ++j) {
 				
 			}
-//			sss
+//			sssdddd
+//			안녕
+//			ssda
 			
 			
 		}
